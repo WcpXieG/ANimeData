@@ -101,3 +101,4 @@
 | 药屋少女的呢喃 | 未观看 | [N/A](N/A) | N/A | <img src='https://raw.githubusercontent.com/WcpXieG/ANimeData/main/images/药屋少女的呢喃.png' width='100'/> |
 | 属性咖啡馆 | 未观看 | [N/A](N/A) | 0 | <img src='https://raw.githubusercontent.com/WcpXieG/ANimeData/main/images/属性咖啡馆.png' width='100'/> |
 | 小龙家的龙女仆 | 未观看 | [N/A](N/A) | 0 | <img src='https://raw.githubusercontent.com/WcpXieG/ANimeData/main/images/小龙家的龙女仆.png' width='100'/> |
+| 想要成为魔法少女 | 未观看 | [N/A](N/A) | N/A | <img src='https://raw.githubusercontent.com/WcpXieG/ANimeData/main/images/想要成为魔法少女.png' width='100'/> |
